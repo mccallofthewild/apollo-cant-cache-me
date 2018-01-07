@@ -1,0 +1,23 @@
+{
+  "name": "apollo-cant-cache-me",
+  "version": "1.0.0",
+  "description": "A solution for a cacheless Apollo Client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "apollo",
+    "client",
+    "apollo",
+    "cache",
+    "cacheless",
+    "graphql"
+  ],
+  "author": "McCall Alexander <mccallalexander96@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
