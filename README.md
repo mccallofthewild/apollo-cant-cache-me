@@ -5,7 +5,7 @@
 
 ```javascript
 import { ApolloClient } from 'apollo-client'
-import disableCache from 'apollo-cant-cache-me'
+import { disableCache } from 'apollo-cant-cache-me'
 
 const GRAPHQL_URI = 'http://localhost:8080/graphql'
 
